@@ -8,15 +8,15 @@
 
 ## 经典互联网公司技术架构
 
-[经典互联网技术架构](https://github.com/davideuler/architecture.of.internet-product)
+[经典互联网技术架构](https://github.com/lotapp/architecture.of.internet-product)
 
 
 ## 国内互联网公司技术架构
-[微信/腾讯技术架构](https://github.com/davideuler/architecture.wechat-tencent)
+[微信/腾讯技术架构](https://github.com/lotapp/architecture.wechat-tencent)
 
-[淘宝/阿里巴巴技术架构](https://github.com/davideuler/architecture.taobao-alibaba)
+[淘宝/阿里巴巴技术架构](https://github.com/lotapp/architecture.taobao-alibaba)
 
-[美团点评技术架构](https://github.com/davideuler/architecture.meituan-dianping)
+[美团点评技术架构](https://github.com/lotapp/architecture.meituan-dianping)
 
 
 ## 国内互联网公司开源项目
@@ -37,7 +37,7 @@
 欢迎提交 Pull Request, 或者 Github上面提交Issue， 贴上您觉得经典的架构介绍PPT/PDF或者网页URL。
 
 ## 《后端架构师技术图谱》
-[《后端架构师技术图谱》](https://github.com/xingshaocheng/architect-awesome)
+[《后端架构师技术图谱》](https://github.com/lotapp/architect-awesome)
 
 ## 互联网架构/电商/高并发架构交流QQ群
 
